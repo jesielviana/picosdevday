@@ -188,16 +188,19 @@ h2 {
 
 #main-slider 
 .carousel-caption {
-  background: none repeat scroll 0 0 #000000;
+  background: none ;
   bottom: 14%;
   float: left;
   left: 0;
   opacity: 0.8;
-  padding:10px 40px 20px;
-  right: inherit;
+  padding:px 40px 20px;
+  right: 0;
   text-transform: uppercase;
-  color: #FFF;
   text-align: left;
+}
+
+.dica{
+  padding:5px 40px 20px;
 }
 
 
@@ -481,7 +484,7 @@ h2 {
   background-position: left bottom;
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 70px 70px 110px;
+  padding: 30px 70px 110px;
 }
 
 
